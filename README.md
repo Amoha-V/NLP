@@ -249,4 +249,4 @@ streamlit run trained_model_app.py    # For pre-trained model
 5. Create a Pull Request
 
 ## License
-Distributed under the [MIT License] <https://opensource.org/licenses/MIT>
+Distributed under the [MIT License](https://opensource.org/licenses/MIT)
