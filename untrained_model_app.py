@@ -98,7 +98,7 @@ class SMSSpamDetector:
         }
 
 def main():
-    st.title('SMS Spam Detector 🕵️‍♀️')
+    st.title('SMS Spam Detector')
     
     # File uploader
     uploaded_file = st.file_uploader("Choose a CSV file", type="csv")
