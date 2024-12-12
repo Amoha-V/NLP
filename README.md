@@ -225,13 +225,6 @@ streamlit run trained_model_app.py    # For pre-trained model
 
 ## Model Performance
 
-### Preprocessing Steps
-- Lowercase conversion
-- URL removal
-- Punctuation stripping
-- Stopword elimination
-- Stemming
-
 ### Evaluation Metrics
 - Accuracy
 - Precision
@@ -248,12 +241,6 @@ streamlit run trained_model_app.py    # For pre-trained model
 - Works best with English language messages
 - Limited to SMS-style text inputs
 
-## Future Improvements
-- Multi-language support
-- Advanced deep learning models
-- Real-time API integration
-- Enhanced feature engineering
-
 ## Contributing
 1. Fork the repository
 2. Create your feature branch
@@ -262,4 +249,4 @@ streamlit run trained_model_app.py    # For pre-trained model
 5. Create a Pull Request
 
 ## License
-[Specify your license - MIT/Apache/etc.]
+Distributed under the [MIT License] <https://opensource.org/licenses/MIT>
